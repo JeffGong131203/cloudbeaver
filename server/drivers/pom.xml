@@ -26,6 +26,8 @@
         <module>sqlite</module>
         <module>sqlserver</module>
         <module>trino</module>
+        <module>dm</module>
+        <module>opengauss</module>
     </modules>
 
     <build>
