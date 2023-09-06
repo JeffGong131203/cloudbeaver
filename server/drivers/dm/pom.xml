@@ -15,11 +15,11 @@
     </properties>
 
     <dependencies>
-        <!-- https://mvnrepository.com/artifact/com.dameng/DmJdbcDriver18 -->
+        <!-- https://mvnrepository.com/artifact/com.dameng/Dm8JdbcDriver18 -->
         <dependency>
             <groupId>com.dameng</groupId>
-            <artifactId>DmJdbcDriver18</artifactId>
-            <version>8.1.2.192</version>
+            <artifactId>Dm8JdbcDriver18</artifactId>
+            <version>8.1.1.49</version>
         </dependency>
     </dependencies>
 
